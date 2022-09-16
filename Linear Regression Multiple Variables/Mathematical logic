@@ -1,0 +1,4 @@
+Understand Logic from (linear Regression single variable) folder, from the same Repository.
+link:- https://github.com/Ravevx/Machine-Learning/blob/main/Linear%20Regression%20Single%20Variable/Linear%20Regression%20Logic.docx
+Difference: Y=mx+c i.e y=m1x1+c
+now, here due to multpile variables: y = m1x1+m2x2+......+mnxn+c
